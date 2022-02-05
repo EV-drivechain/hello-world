@@ -1,2 +1,2 @@
 # hello-world
-Exploring arm64 distributions and frameworks for Crypto and Deep Learning on MacBook Pro (14-inch, M1 Pro)
+Exploring arm64 distributions for benchmarking Crypto and Deep Learning framewroks on MacBook Pro (M1 Pro / Max)
